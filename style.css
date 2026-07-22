@@ -90,27 +90,27 @@ section {
 
 
 .linux {
-    width: 95%;
+    width: 85%;
 }
 
 .docker {
-    width: 85%;
+    width: 65%;
 }
 
 .ansible {
-    width: 85%;
-}
-
-.postgres {
     width: 75%;
 }
 
+.postgres {
+    width: 60%;
+}
+
 .nginx {
-    width: 90%;
+    width: 70%;
 }
 
 .monitoring {
-    width: 70%;
+    width: 75%;
 }
 
 
